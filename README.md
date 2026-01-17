@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development(html& css**
+- 🌱 I’m currently learning **Web Development(html& css)**
 
 - 📫 How to reach me **2430.shivanipal@gmail.com**
 
