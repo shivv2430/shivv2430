@@ -1,10 +1,10 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Shivani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hii 👋, its'shivv2430
+<h1 align="center"> I'm Shivani Pal 😊</h1>
+<h3 align="center">A passionate frontend developer from India🇮🇳</h3>
 
 - 🌱 I’m currently learning **Web Development(html& css)**
 
-- 📫 How to reach me **2430.shivanipal@gmail.com**
+- 🖇️📫 How to reach me **[shivv2430](https://www.linkedin.com/in/shivv2430/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
