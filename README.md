@@ -1,13 +1,6 @@
 <div align="center">
-  <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi%20👋%20I'm%20Shivani%20Pal&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38"/>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Frontend+Developer;Open+Source+Contributor;GitHub+Campus+Expert+Applicant;Microsoft+Learn+Student+Ambassador;Always+Learning+Something+New+🚀" />
-</p>
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg) -->
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Shivani%20Pal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=A%20passionate%20frontend%20developer%20from%20India%20🇮🇳&descAlignY=55&descSize=18"/> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Shivani%20Pal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=A%20passionate%20frontend%20developer%20from%20India%20🇮🇳&descAlignY=55&descSize=18"/> 
 https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi%20👋%20I'm%20Shivani%20Pal&fontSize=48&fontColor=ffff&animation=fadeIn
 </div>
 
