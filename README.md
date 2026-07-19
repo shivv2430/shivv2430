@@ -1,7 +1,6 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Shivani%20Pal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=A%20passionate%20frontend%20developer%20from%20India%20🇮🇳&descAlignY=55&descSize=18"/> 
-https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi%20👋%20I'm%20Shivani%20Pal&fontSize=48&fontColor=ffff&animation=fadeIn
 </div>
 
 ---
