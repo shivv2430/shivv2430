@@ -10,7 +10,6 @@
 - 🔭 I'm currently working on **Frontend Projects**
 - 🌱 I'm currently learning **Web Development (HTML & CSS, JS) & React**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Python**
-- 📫 How to reach me: **2430.shivanipal@gmail.com**
 - ⚡ Fun fact: **I love learning new technologies and contributing to open source projects 💡**
 
 ---
@@ -23,7 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivv2430)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/2430shivanipal)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Shivv2430)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2430.shivanipal@gmail.com)
 
 </div>
 
